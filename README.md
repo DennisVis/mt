@@ -11,6 +11,8 @@ Go MT
 [![Coverage](https://coveralls.io/repos/github/DennisVis/mt/badge.svg?branch=main)](https://coveralls.io/github/DennisVis/mt?branch=main)
 [![Go Report Card](https://goreportcard.com/badge/github.com/DennisVis/mt)](https://goreportcard.com/report/github.com/DennisVis/mt)
 
+!! WORK IN PROGRESS !!
+
 A library for parsing MT (message text) messages in Go according to the 
 [SWIFT specification](https://www2.swift.com/knowledgecentre/products/Standards%20MT).
 
